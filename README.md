@@ -14,7 +14,9 @@ Objective :
 
 Based on the problems that have been described at the beginning, I tried to use an artificial network of image processing that can classify the types of fruit, so that what will be sent can arrive on time without sorting the fruit manually and customers waiting in long lines to buy fruit because the cashier detects the type of fruit to be made purchased by the customer.
 
+URL Dataset :
 
+https://www.kaggle.com/datasets/sshikamaru/fruit-recognition
 
 ### Built With
 
@@ -26,7 +28,7 @@ Based on the problems that have been described at the beginning, I tried to use 
 <!-- GETTING STARTED -->
 ## Demo video 📹
 
-1. Youtube link [https://example.com](https://example.com)
+1. Youtube video: [FruitClassification CNN](https://youtu.be/xAgBhN-7hCY)
 
 
 <!-- CONTACT -->
