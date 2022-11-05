@@ -40,5 +40,3 @@ David Guzmán Leyva - A01706417@tec.mx
 ## Acknowledgments
 
 Dr. Benjamín Valdés Aguirre - XOXO
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
