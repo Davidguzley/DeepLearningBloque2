@@ -32,7 +32,7 @@ Based on the problems that have been described at the beginning, I tried to use 
 <!-- CONTACT -->
 ## Contact
 
-Daavid Guzmán Leyva - A01706417@tec.mx
+David Guzmán Leyva - A01706417@tec.mx
 
 
 
